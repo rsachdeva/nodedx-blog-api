@@ -1,0 +1,11 @@
+HTTP/1.1 201 Created
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 12
+ETag: W/"c-CCpHgHCDP0yHoWTP6W73hjBee/o"
+Date: Mon, 29 Jan 2018 23:11:33 GMT
+Connection: keep-alive
+
+{
+  "postId": 1
+}
