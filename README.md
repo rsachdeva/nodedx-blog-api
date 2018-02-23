@@ -16,7 +16,7 @@ From project root:
 cd client_script
 sh ./request.sh
 
-new.json file is for a new blog entry in a separate file so can take large blogs.
+new.json file is for a new blog entry in a separate file so can take large blogs.new_comment.json is a for a new nested comment entry in a post as an example.
 
 # Posts async handling
 This is just to show Promise use in case this involved asynchronous handling. 
